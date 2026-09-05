@@ -8,3 +8,5 @@ This repository contains my implementations from the lessons, covering Go fundam
 
 - [Hello, World](./hello)
 - [Integers](./integers)
+- [Iteration](./iteration)
+- [Arrays and Slices](./slices)
