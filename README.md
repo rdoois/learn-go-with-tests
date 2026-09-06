@@ -10,3 +10,4 @@ This repository contains my implementations from the lessons, covering Go fundam
 - [Integers](./integers)
 - [Iteration](./iteration)
 - [Arrays and Slices](./slices)
+- [Structs, methods & interfaces](./structs)
