@@ -12,3 +12,4 @@ This repository contains my implementations from the lessons, covering Go fundam
 - [Arrays and Slices](./slices)
 - [Structs, methods & interfaces](./structs)
 - [Pointers & errors](./pointers)
+- [Maps](./maps)
