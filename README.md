@@ -13,3 +13,4 @@ This repository contains my implementations from the lessons, covering Go fundam
 - [Structs, methods & interfaces](./structs)
 - [Pointers & errors](./pointers)
 - [Maps](./maps)
+- [Dependency Injection](./di)
