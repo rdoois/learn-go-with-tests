@@ -15,3 +15,4 @@ This repository contains my implementations from the lessons, covering Go fundam
 - [Maps](./maps)
 - [Dependency Injection](./di)
 - [Mocking](./mocking)
+- [Concurrency](./concurrency)
