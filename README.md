@@ -16,3 +16,4 @@ This repository contains my implementations from the lessons, covering Go fundam
 - [Dependency Injection](./di)
 - [Mocking](./mocking)
 - [Concurrency](./concurrency)
+- [Select](./select)
