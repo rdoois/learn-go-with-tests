@@ -17,3 +17,4 @@ This repository contains my implementations from the lessons, covering Go fundam
 - [Mocking](./mocking)
 - [Concurrency](./concurrency)
 - [Select](./select)
+- [Reflection](./reflection)
