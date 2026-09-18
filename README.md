@@ -18,3 +18,4 @@ This repository contains my implementations from the lessons, covering Go fundam
 - [Concurrency](./concurrency)
 - [Select](./select)
 - [Reflection](./reflection)
+- [Sync](./sync)
