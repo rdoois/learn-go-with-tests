@@ -21,3 +21,4 @@ This repository contains my implementations from the lessons, covering Go fundam
 - [Sync](./sync)
 - [Context](./context)
 - [Intro to property based tests](./romannumerals)
+- [Maths](./maths)
