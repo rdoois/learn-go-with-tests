@@ -24,3 +24,4 @@ This repository contains my implementations from the lessons, covering Go fundam
 - [Maths](./maths)
 - [Reading files](./blogposts)
 - [Templating](./blogrenderer)
+- [Generics](./generics)
