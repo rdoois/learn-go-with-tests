@@ -25,3 +25,4 @@ This repository contains my implementations from the lessons, covering Go fundam
 - [Reading files](./blogposts)
 - [Templating](./blogrenderer)
 - [Generics](./generics)
+- [Revisiting arrays and slices with generics](./slices)
